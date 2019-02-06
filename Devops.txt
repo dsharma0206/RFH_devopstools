@@ -1,0 +1,21 @@
+https://bit.ly/2nhKGAQ
+dharmendar.sharma@ril.com
+jan@2019
+
+
+Note: the credentials for your instance is:--
+Username: devops@54.164.159.17
+Password: Dev0p$!!/
+You can ssh to your instance using ssh Client and following the steps as mentioned below:-
+Run this command and replace xxx.xxx.xxx.xxx with public IP of your instance.
+$ ssh devops@xxx.xxx.xxx.xxx
+Hit enter and enter the password Dev0p$!!/ when prompted
+
+
+git config --global user.name "dsharma0206"
+
+git config --global user.name
+
+git config --global user.email dharmendar.sharma@ril.com
+
+git config --global user.email
